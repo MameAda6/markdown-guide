@@ -16,6 +16,7 @@ It can be helpful to preview changes on your computer before opening a pull requ
 - `bundle install`
 - `bundle exec jekyll serve`
 - Point your browser at http://127.0.0.1:4000/
+- test
 
 ### Adding tools
 
